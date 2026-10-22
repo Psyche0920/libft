@@ -1,3 +1,16 @@
+<!-- repository-badges:start -->
+<div align="center">
+
+[![Contributors](https://img.shields.io/github/contributors/Psyche0920/libft?style=for-the-badge)](https://github.com/Psyche0920/libft/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/Psyche0920/libft?style=for-the-badge)](https://github.com/Psyche0920/libft/forks)
+[![Stars](https://img.shields.io/github/stars/Psyche0920/libft?style=for-the-badge)](https://github.com/Psyche0920/libft/stargazers)
+[![Issues](https://img.shields.io/github/issues/Psyche0920/libft?style=for-the-badge)](https://github.com/Psyche0920/libft/issues)
+[![License](https://img.shields.io/badge/license-not_specified-lightgrey?style=for-the-badge)](https://github.com/Psyche0920/libft)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Weijia_Han-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/weijia-han-6162581b5/)
+
+</div>
+<!-- repository-badges:end -->
+
 # 📚 libft
 
 <p align="center">
